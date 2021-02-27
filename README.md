@@ -11,8 +11,8 @@ We will use visual exploration, domain understanding, and intuition to construct
 Notebook Contents
 
 Simple EDA
-One-hot Encoding variables
-Log transformation for skewed variables
-Pair plot for features
-Basic feature engineering: adding polynomial and interaction terms
-Feature engineering: categories and features derived from category aggregates
+,One-hot Encoding variables
+,Log transformation for skewed variables
+,Pair plot for features
+,Basic feature engineering: adding polynomial and interaction terms
+,Feature engineering: categories and features derived from category aggregates.
